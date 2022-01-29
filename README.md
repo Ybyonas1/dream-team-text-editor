@@ -22,22 +22,24 @@ This assignment was also a great way for me to gain some hands on skills in usin
 
 ## Notes
 
-1. The Team Profile Generator will allow you to build 3 profiles for a manager, engineer, and intern
-2. The Team Profile Generator will generate the profiles on an HTML page
-3. The each job selection has a unique color code.
-4. The Team Profile Generator will prompt the neccessary questions via the terminal server using Node.js
+1. The Text editor allows you to type code into the page
+2. PRovides you with an "install" button that permits you to use the app outside of the browser
+3. The application can also be used while offline
+4. Uses localstorage to store the inputed text and continue to display the text after refreshing the page.
 
 ## Visuals
 Here is a screenshot of a generated team profile.
 
-![Team Profile Genrator](./assets/image/tpg.png)
+![Text-Editor](./PWAsc.png)
 #
+This is a screenshot of the app installed on the computer.
+![installed app](./PWAin.png)
 
 ## Usage
-The Team Profile Generator's functionality and usage is very simple and can be used by anyone desiring to generate a profile for their team.
+The Text Editor allows you to write and edit code iwthin your borwser, while also being able to use it while offline.
 
-[Link to the deplyed site](https://ybyonas1.github.io/team-profile-gen/)
+[Link to the deplyed site]()
 
-[Repository](https://github.com/Ybyonas1/team-profile-gen)
+[Repository](https://github.com/Ybyonas1/dream-team-text-editor)
 
 Thank You.
